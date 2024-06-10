@@ -5,5 +5,5 @@ This is a project showing how various Api authentication works.
 3. O-auth authenication
 
 TO start change directory 
-nodemon index.js 
+nodemon solution.js 
 use postman 
