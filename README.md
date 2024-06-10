@@ -4,6 +4,6 @@ This is a project showing how various Api authentication works.
 2. Api key authorization
 3. O-auth authenication
 
-TO start change directory 
+To start change directory 
 nodemon solution.js 
-use postman 
+use postman to get yousrlf api key and bearer token from https://secrets-api.appbrewery.com/. Read its documentation.
